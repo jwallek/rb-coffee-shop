@@ -1,1 +1,1 @@
-
+This is a simple website created for a fictional coffee shop RB Coffee, React Bootstrap Coffee, that uses react router with three main pages: home, about, and menu. There is a known issue with the menu page with the background and opacity which occurred when I pushed this project onto Github which I will try to fix, probably has something to do with the bootstrap library.
